@@ -3,6 +3,7 @@
   <groupId>sopra-ajc</groupId>
   <artifactId>VoyageTemporelWeb</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
   
   <dependencies>
 		<dependency>
@@ -36,7 +37,7 @@
 		</dependency>
 		<dependency>
 			<groupId>sopra-ajc</groupId>
-  			<artifactId>VoyageTemporel-back</artifactId>
+  			<artifactId>VoyageTemporel</artifactId>
   			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
